@@ -8,3 +8,8 @@
 **/out/
 **/*.iml
 **/.idea
+
+# Eclipse
+**/.classpath
+**/.project
+**/.settings
