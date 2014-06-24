@@ -1,0 +1,15 @@
+**/*.class
+*.log
+**/target/
+
+# IntelliJ IDEA
+.idea/
+**/.idea_modules
+**/out/
+**/*.iml
+**/.idea
+
+# Eclipse
+**/.classpath
+**/.project
+**/.settings
